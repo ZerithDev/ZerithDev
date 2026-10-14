@@ -1,28 +1,33 @@
-<!-- README Profil GitHub | Heading: Cabin Bold (vector); deskripsi visual: Inter (vector). Tidak memerlukan file font atau CSS. -->
+<!-- README Profil GitHub Zerith | Menggunakan SVG dan aset lokal agar tampilan lebih rapi di GitHub. -->
 <div align="center">
   <img src="./assets/zerith-hero.svg" width="100%" alt="Zerith — Frontend Developer, UI Design, Web Experiences" />
 </div>
 
 <div align="center">
   <h3>Membuat antarmuka yang terasa tepat, bukan sekadar terlihat menarik.</h3>
-  <p>Berfokus pada desain UI, pengembangan frontend, dan pengalaman web yang rapi serta responsif.</p>
+  <p>Berfokus pada desain UI, frontend development, pengalaman web yang rapi, dan komponen yang konsisten.</p>
 </div>
 
+<br>
 <br>
 
 <table>
   <tr>
-    <td width="27%" align="center" valign="middle">
+    <td width="33%" align="center" valign="middle">
       <a href="https://github.com/ZerithDev">
-        <img src="https://github.com/ZerithDev.png?size=180" width="145" alt="Foto profil GitHub Zerith" />
+        <img src="./assets/zerith-avatar.svg" width="190" alt="Foto profil Zerith" />
       </a>
-      <p><strong>Zerith</strong><br>Frontend Developer</p>
+      <br><br>
+      <strong>Zerith</strong>
+      <br>
+      Frontend Developer
     </td>
-    <td width="73%" valign="top">
+    <td width="67%" valign="top">
       <h2><img src="./assets/heading-tentang.svg" width="200" alt="Tentang Saya" /></h2>
       <p>Halo, saya <strong>Zerith</strong>, seorang frontend developer yang menikmati proses mengubah ide menjadi antarmuka web yang bersih, responsif, dan nyaman digunakan.</p>
       <p>Saya menaruh perhatian pada komposisi, keterbacaan, konsistensi komponen, serta detail kecil yang membuat pengalaman pengguna terasa lebih matang.</p>
-      <p><strong>Fokus:</strong> Frontend Development · UI Design · Responsive Web · Reusable UI Components · Design Systems.</p>
+      <p><strong>Fokus utama:</strong> Frontend Development · UI Design · Responsive Web · Reusable UI Components · Design Systems.</p>
+      <p><strong>GitHub username:</strong> <code>ZerithDev</code><br><strong>Website:</strong> <a href="https://themes.hanzstaging.my.id/">themes.hanzstaging.my.id</a></p>
     </td>
   </tr>
 </table>
@@ -31,7 +36,15 @@
   <a href="https://github.com/ZerithDev"><img src="https://img.shields.io/badge/Profil%20GitHub-ZerithDev-6C0D18?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub" /></a>
   &nbsp;
   <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Kunjungi-Galeri%20Tema-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kunjungi Galeri Tema" /></a>
+  &nbsp;
+  <a href="https://github.com/ZerithDev?tab=repositories"><img src="https://img.shields.io/badge/Repositori-Lihat%20Semua-B31B28?style=for-the-badge&logo=github&logoColor=white" alt="Lihat repositori ZerithDev" /></a>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="./assets/profile-highlights.svg" width="100%" alt="Sorotan fokus pengembangan Zerith" />
+</div>
 
 <br>
 
@@ -43,19 +56,43 @@
 
 <div align="center">
   <a href="https://themes.hanzstaging.my.id/">
-    <img src="./assets/galeri-tema-showcase.jpg" width="100%" alt="Galeri Tema, menampilkan background pastel dan logo maskot pelangi asli" />
+    <img src="./assets/galeri-tema-showcase-rounded.png" width="100%" alt="Galeri Tema dengan background pastel dan logo maskot pelangi" />
   </a>
 </div>
 
 <br>
 
-**Galeri Tema** adalah koleksi desain untuk website top-up game, jual beli akun, dan landing page. Setiap tema memiliki karakter visual tersendiri, dengan perhatian pada tampilan yang rapi, navigasi yang jelas, dan pengalaman responsif.
-
-Di dalamnya ada beberapa pendekatan desain seperti **Dark Morphic**, **Glass Morphism**, **Gamiz**, **Luna Girly**, **Nexus Putih**, dan **Nexus Hitam**.
-
-<p align="center">
-  <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Lihat%20Galeri-Live%20Preview-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buka website Galeri Tema" /></a>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>Galeri Tema</strong> adalah koleksi desain untuk website <strong>top-up game</strong>, <strong>jual beli akun</strong>, dan <strong>landing page</strong>.
+      <br><br>
+      Proyek ini menampilkan berbagai eksplorasi visual yang menonjolkan karakter tema, komposisi layout, serta pendekatan UI yang berbeda-beda tetapi tetap rapi dan nyaman dipandang.
+      <br><br>
+      Yang ingin saya tonjolkan dari proyek ini adalah bagaimana setiap tema memiliki identitas sendiri, namun tetap menjaga struktur yang jelas, navigasi yang mudah, dan pengalaman responsif di berbagai ukuran layar.
+      <br><br>
+      <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Lihat%20Galeri-Live%20Preview-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buka website Galeri Tema" /></a>
+    </td>
+    <td width="40%" valign="top">
+      <strong>Eksplorasi tema</strong>
+      <ul>
+        <li>Dark Morphic</li>
+        <li>Glass Morphism</li>
+        <li>Gamiz</li>
+        <li>Luna Girly</li>
+        <li>Nexus Putih</li>
+        <li>Nexus Hitam</li>
+      </ul>
+      <strong>Nilai yang dijaga</strong>
+      <ul>
+        <li>Visual yang menarik</li>
+        <li>Komposisi yang bersih</li>
+        <li>Detail UI yang rapi</li>
+        <li>Tampilan yang tetap nyaman</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -65,13 +102,24 @@ Di dalamnya ada beberapa pendekatan desain seperti **Dark Morphic**, **Glass Mor
 
 <h2><img src="./assets/heading-teknologi.svg" width="295" alt="Teknologi dan Tools" /></h2>
 
-**Fondasi web**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="HTML, CSS, JavaScript" />
-
-**Peralatan pengembangan**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="Git, GitHub, VS Code, Linux" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Fondasi web</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="HTML, CSS, JavaScript" />
+      <br><br>
+      Digunakan untuk menyusun struktur halaman, membangun tampilan, dan menghadirkan interaksi yang nyaman.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Peralatan pengembangan</strong>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="Git, GitHub, VS Code, Linux" />
+      <br><br>
+      Membantu alur kerja pengembangan, version control, pengelolaan proyek, dan eksplorasi kode.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -81,11 +129,25 @@ Di dalamnya ada beberapa pendekatan desain seperti **Dark Morphic**, **Glass Mor
 
 <h2><img src="./assets/heading-pendekatan.svg" width="255" alt="Pendekatan Saya" /></h2>
 
-**Desain yang terarah.** Setiap elemen punya fungsi dan posisi yang jelas, tanpa membuat halaman terasa sesak.
-
-**Komponen yang konsisten.** Pola antarmuka dirancang agar dapat digunakan kembali dan lebih mudah dikelola.
-
-**Penyempurnaan berkelanjutan.** Evaluasi detail, keterbacaan, serta tampilan desktop dan mobile menjadi bagian dari proses pengembangan.
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <strong>Desain yang terarah</strong>
+      <br><br>
+      Setiap elemen disusun agar punya fungsi yang jelas dan tidak membuat halaman terasa sesak.
+    </td>
+    <td width="33.33%" valign="top">
+      <strong>Komponen yang konsisten</strong>
+      <br><br>
+      Pola antarmuka dirancang agar dapat digunakan kembali dan lebih mudah dikelola saat proyek berkembang.
+    </td>
+    <td width="33.33%" valign="top">
+      <strong>Penyempurnaan berkelanjutan</strong>
+      <br><br>
+      Evaluasi detail, keterbacaan, serta tampilan desktop dan mobile menjadi bagian dari proses kerja saya.
+    </td>
+  </tr>
+</table>
 
 <br>
 
