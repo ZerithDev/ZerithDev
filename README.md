@@ -125,23 +125,35 @@
 
 ---
 
-<br>
-
-## Aktivitas GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZerithDev&show_icons=true&hide_border=true&bg_color=210509&title_color=FFFFFF&text_color=F0D5D8&icon_color=F4656E&ring_color=DA3746" alt="Statistik GitHub ZerithDev" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerithDev&layout=compact&hide_border=true&bg_color=210509&title_color=FFFFFF&text_color=F0D5D8&langs_count=5" alt="Bahasa teratas akun GitHub ZerithDev" />
-</div>
-
-<br>
-
 ---
 
 <br>
 
+## Aktivitas GitHub
+
+<p align="center">
+  Statistik singkat aktivitas dan bahasa yang paling sering saya gunakan di GitHub.
+</p>
+
 <div align="center">
-  <h3>Desain yang baik menyatukan tampilan, kejelasan, dan kenyamanan.</h3>
-  <p>Terima kasih sudah berkunjung.</p>
-  <p><strong>Zerith</strong> · <a href="https://github.com/ZerithDev">GitHub</a> · <a href="https://themes.hanzstaging.my.id/">Galeri Tema</a></p>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ZerithDev&show_icons=true&hide_border=true&bg_color=140205&title_color=FFFFFF&text_color=F3D2D6&icon_color=FF5468&border_radius=16"
+    alt="Statistik GitHub ZerithDev"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerithDev&layout=compact&hide_border=true&bg_color=140205&title_color=FFFFFF&text_color=F3D2D6&border_radius=16&langs_count=6"
+    alt="Bahasa yang paling sering digunakan"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="99%"
+    src="https://streak-stats.demolab.com?user=ZerithDev&hide_border=true&background=140205&ring=FF5468&fire=FF5468&currStreakLabel=FFFFFF&sideLabels=F3D2D6&dates=C79299&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=16"
+    alt="GitHub streak ZerithDev"
+  />
 </div>
