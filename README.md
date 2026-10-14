@@ -36,6 +36,7 @@
 </p>
 
 <br>
+<br>
 
 <div align="center">
   <img src="./assets/focus-strip.svg" width="100%" alt="Fokus utama Zerith" />
@@ -119,8 +120,6 @@
 </table>
 
 <br>
-
----
 
 ---
 
