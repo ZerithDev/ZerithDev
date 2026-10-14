@@ -49,7 +49,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/heading-project.svg" width="92%" alt="Project Unggulan" />
+  <img src="./assets/heading-project.svg" width="100%" alt="Project Unggulan" />
 </div>
 
 <br>
