@@ -45,11 +45,11 @@
 
 ---
 
-<br>
-
 <div align="center">
   <img src="./assets/heading-project.svg" width="100%" alt="Project Unggulan" />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://themes.hanzstaging.my.id/">
