@@ -1,11 +1,11 @@
-<!-- README Profil GitHub Zerith | Menggunakan SVG dan aset lokal agar tampilan lebih rapi di GitHub. -->
+<!-- README Profil GitHub Zerith | Revisi final: hero user, avatar user, 1 project utama. -->
 <div align="center">
-  <img src="./assets/zerith-hero.svg" width="100%" alt="Zerith — Frontend Developer, UI Design, Web Experiences" />
+  <img src="./assets/zerith-hero-user.png" width="100%" alt="Zerith — Frontend Developer / UI Design / Web Experiences" />
 </div>
 
 <div align="center">
-  <h3>Membuat antarmuka yang terasa tepat, bukan sekadar terlihat menarik.</h3>
-  <p>Berfokus pada desain UI, frontend development, pengalaman web yang rapi, dan komponen yang konsisten.</p>
+  <h3>Membangun antarmuka yang rapi, terarah, dan nyaman digunakan.</h3>
+  <p>Berfokus pada frontend development, UI design, responsive web, dan komponen yang konsisten.</p>
 </div>
 
 <br>
@@ -13,37 +13,33 @@
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="middle">
-      <a href="https://github.com/ZerithDev">
-        <img src="./assets/zerith-avatar.svg" width="190" alt="Foto profil Zerith" />
-      </a>
+    <td width="32%" align="center" valign="middle">
+      <img src="./assets/zerith-avatar-user-rounded.png" width="190" alt="Avatar Zerith" />
       <br><br>
       <strong>Zerith</strong>
       <br>
       Frontend Developer
     </td>
-    <td width="67%" valign="top">
-      <h2><img src="./assets/heading-tentang.svg" width="200" alt="Tentang Saya" /></h2>
-      <p>Halo, saya <strong>Zerith</strong>, seorang frontend developer yang menikmati proses mengubah ide menjadi antarmuka web yang bersih, responsif, dan nyaman digunakan.</p>
-      <p>Saya menaruh perhatian pada komposisi, keterbacaan, konsistensi komponen, serta detail kecil yang membuat pengalaman pengguna terasa lebih matang.</p>
-      <p><strong>Fokus utama:</strong> Frontend Development · UI Design · Responsive Web · Reusable UI Components · Design Systems.</p>
+    <td width="68%" valign="top">
+      <h2>Tentang Saya</h2>
+      <p>Halo, saya <strong>Zerith</strong>. Saya menikmati proses mengubah ide menjadi antarmuka web yang bersih, responsif, dan nyaman digunakan.</p>
+      <p>Saya menaruh perhatian pada komposisi, keterbacaan, konsistensi komponen, dan detail visual agar hasil akhirnya terasa lebih matang.</p>
+      <p><strong>Fokus utama:</strong> Frontend Development · UI Design · Responsive Web · Reusable UI Components · Design Systems</p>
       <p><strong>GitHub username:</strong> <code>ZerithDev</code><br><strong>Website:</strong> <a href="https://themes.hanzstaging.my.id/">themes.hanzstaging.my.id</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/ZerithDev"><img src="https://img.shields.io/badge/Profil%20GitHub-ZerithDev-6C0D18?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub" /></a>
+  <a href="https://github.com/ZerithDev"><img src="https://img.shields.io/badge/Profil%20GitHub-ZerithDev-6C0D18?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub ZerithDev" /></a>
   &nbsp;
   <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Kunjungi-Galeri%20Tema-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kunjungi Galeri Tema" /></a>
-  &nbsp;
-  <a href="https://github.com/ZerithDev?tab=repositories"><img src="https://img.shields.io/badge/Repositori-Lihat%20Semua-B31B28?style=for-the-badge&logo=github&logoColor=white" alt="Lihat repositori ZerithDev" /></a>
 </p>
 
 <br>
 
 <div align="center">
-  <img src="./assets/profile-highlights.svg" width="100%" alt="Sorotan fokus pengembangan Zerith" />
+  <img src="./assets/focus-strip.svg" width="100%" alt="Fokus utama Zerith" />
 </div>
 
 <br>
@@ -52,11 +48,15 @@
 
 <br>
 
-<h2><img src="./assets/heading-galeri.svg" width="195" alt="Galeri Tema" /></h2>
+<div align="center">
+  <img src="./assets/heading-project.svg" width="92%" alt="Project Unggulan" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://themes.hanzstaging.my.id/">
-    <img src="./assets/galeri-tema-showcase-rounded.png" width="100%" alt="Galeri Tema dengan background pastel dan logo maskot pelangi" />
+    <img src="./assets/galeri-tema-showcase-rounded.png" width="100%" alt="Galeri Tema showcase" />
   </a>
 </div>
 
@@ -64,17 +64,17 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <strong>Galeri Tema</strong> adalah koleksi desain untuk website <strong>top-up game</strong>, <strong>jual beli akun</strong>, dan <strong>landing page</strong>.
-      <br><br>
-      Proyek ini menampilkan berbagai eksplorasi visual yang menonjolkan karakter tema, komposisi layout, serta pendekatan UI yang berbeda-beda tetapi tetap rapi dan nyaman dipandang.
-      <br><br>
-      Yang ingin saya tonjolkan dari proyek ini adalah bagaimana setiap tema memiliki identitas sendiri, namun tetap menjaga struktur yang jelas, navigasi yang mudah, dan pengalaman responsif di berbagai ukuran layar.
-      <br><br>
-      <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Lihat%20Galeri-Live%20Preview-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buka website Galeri Tema" /></a>
+    <td width="62%" valign="top">
+      <h3>Galeri Tema</h3>
+      <p><strong>Galeri Tema</strong> adalah project utama yang saya tampilkan sebagai sorotan. Project ini berisi koleksi desain untuk website <strong>top-up game</strong>, <strong>jual beli akun</strong>, dan <strong>landing page</strong>.</p>
+      <p>Bagian ini paling mewakili cara saya mengeksplorasi visual, menyusun layout, dan membangun tampilan yang tetap rapi sekalipun gaya desainnya berbeda-beda.</p>
+      <p>Yang saya jaga dari project ini adalah identitas visual yang kuat, struktur halaman yang jelas, navigasi yang nyaman, dan pengalaman yang tetap enak dipakai di berbagai ukuran layar.</p>
+      <p>
+        <a href="https://themes.hanzstaging.my.id/"><img src="https://img.shields.io/badge/Live%20Preview-Buka%20Galeri%20Tema-9B1523?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Buka Galeri Tema" /></a>
+      </p>
     </td>
-    <td width="40%" valign="top">
-      <strong>Eksplorasi tema</strong>
+    <td width="38%" valign="top">
+      <h3>Yang Ditampilkan</h3>
       <ul>
         <li>Dark Morphic</li>
         <li>Glass Morphism</li>
@@ -83,7 +83,7 @@
         <li>Nexus Putih</li>
         <li>Nexus Hitam</li>
       </ul>
-      <strong>Nilai yang dijaga</strong>
+      <h3>Nilai Utama</h3>
       <ul>
         <li>Visual yang menarik</li>
         <li>Komposisi yang bersih</li>
@@ -100,7 +100,7 @@
 
 <br>
 
-<h2><img src="./assets/heading-teknologi.svg" width="295" alt="Teknologi dan Tools" /></h2>
+## Teknologi yang Digunakan
 
 <table>
   <tr>
@@ -116,7 +116,7 @@
       <br><br>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="Git, GitHub, VS Code, Linux" />
       <br><br>
-      Membantu alur kerja pengembangan, version control, pengelolaan proyek, dan eksplorasi kode.
+      Membantu workflow pengembangan, version control, pengelolaan project, dan eksplorasi kode.
     </td>
   </tr>
 </table>
@@ -127,35 +127,7 @@
 
 <br>
 
-<h2><img src="./assets/heading-pendekatan.svg" width="255" alt="Pendekatan Saya" /></h2>
-
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <strong>Desain yang terarah</strong>
-      <br><br>
-      Setiap elemen disusun agar punya fungsi yang jelas dan tidak membuat halaman terasa sesak.
-    </td>
-    <td width="33.33%" valign="top">
-      <strong>Komponen yang konsisten</strong>
-      <br><br>
-      Pola antarmuka dirancang agar dapat digunakan kembali dan lebih mudah dikelola saat proyek berkembang.
-    </td>
-    <td width="33.33%" valign="top">
-      <strong>Penyempurnaan berkelanjutan</strong>
-      <br><br>
-      Evaluasi detail, keterbacaan, serta tampilan desktop dan mobile menjadi bagian dari proses kerja saya.
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-<h2><img src="./assets/heading-github.svg" width="265" alt="Aktivitas GitHub" /></h2>
+## Aktivitas GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZerithDev&show_icons=true&hide_border=true&bg_color=210509&title_color=FFFFFF&text_color=F0D5D8&icon_color=F4656E&ring_color=DA3746" alt="Statistik GitHub ZerithDev" />
@@ -172,5 +144,4 @@
   <h3>Desain yang baik menyatukan tampilan, kejelasan, dan kenyamanan.</h3>
   <p>Terima kasih sudah berkunjung.</p>
   <p><strong>Zerith</strong> · <a href="https://github.com/ZerithDev">GitHub</a> · <a href="https://themes.hanzstaging.my.id/">Galeri Tema</a></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B3121B,55:7B0B12,100:2B0306&height=110&section=footer" width="100%" alt="Footer merah gelap" />
 </div>
