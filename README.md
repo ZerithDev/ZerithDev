@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://themes.hanzstaging.my.id/">
-    <img src="./assets/galeri-tema-showcase-rounded.png" width="100%" alt="Galeri Tema showcase" />
+    <img src="./assets/galeri-tema-showcase-new.png" width="100%" alt="Galeri Tema showcase" />
   </a>
 </div>
 
